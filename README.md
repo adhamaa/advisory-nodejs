@@ -32,8 +32,8 @@ Before starting, ensure you have the following installed:
 ### **Step 1: Clone the Repository**
 
 ```bash
-git clone https://github.com/your-repo.git
-cd your-repo
+git clone https://github.com/adhamaa/advisory-nodejs.git
+cd advisory-nodejs
 ```
 
 ### **Step 2: Install Dependencies**
