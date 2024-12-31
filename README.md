@@ -1,6 +1,6 @@
 # Node.js API for User Authentication and Listing Management
 
-This project is a Node.js-based RESTful API for user authentication and listing management. It includes **minimal** role-based access control, database migrations, and seeding. The application uses Sequelize as the ORM, MySQL as the database, and Express.js as the web framework.
+This project is a Node.js-based RESTful API for user authentication and listing management for practical interview. It includes **very minimal** role-based access control, database migrations, and seeding. The application uses Sequelize as the ORM, MySQL as the database, and Express.js as the web framework.
 
 ---
 
