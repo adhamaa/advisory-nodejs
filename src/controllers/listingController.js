@@ -3,7 +3,6 @@ const { calculateDistance } = require('../utils/distance');
 
 const getListing = async (req, res) => {
   const { user_id } = req.query;
-  console.log('user_id:', user_id)
 
   try {
     const listings = await Listing.findAll({
